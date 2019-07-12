@@ -1,3 +1,3 @@
 # WWW x meeshbhoombah
-Showcase...
+My personal website.
 
