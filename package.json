@@ -1,0 +1,36 @@
+{
+  "name": "meeshbhoombah.github.io",
+  "version": "1.0.0",
+  "description": "My personal website.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meeshbhoombah/meeshbhoombah.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Meeshbhoombah/meeshbhoombah.github.io/issues"
+  },
+  "homepage": "https://github.com/Meeshbhoombah/meeshbhoombah.github.io#readme",
+  "devDependencies": {
+    "@types/react": "^16.8.23",
+    "@types/react-dom": "^16.8.4",
+    "source-map-loader": "^0.2.4",
+    "ts-loader": "^6.0.4",
+    "typescript": "^3.5.3",
+    "webpack": "^4.35.3",
+    "webpack-cli": "^3.3.6"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
