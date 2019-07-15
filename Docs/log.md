@@ -39,3 +39,8 @@ changes I could attempt in my workflow.
 Anyhow, its time to set up the project. I'm using Typescript and React.
 - [ ] https://www.typescriptlang.org/docs/handbook/react-&-webpack.html 
 - [ ] https://www.digitalocean.com/community/tutorials/how-to-build-a-customer-list-management-app-with-react-and-typescript#step-4-%E2%80%94-setting-up-routing-and-updating-the-entry-point-of-the-application
+
+## July 15, 2019
+The nature of life is such that one cannot progress without dropping weights. I
+had to spend the weekend dropping weights that I did not even know I was
+burdened with. 
